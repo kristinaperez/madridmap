@@ -20,4 +20,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://pitermap.netlify.app/sitemap.xml
+Sitemap: https://madridmap.netlify.app/sitemap.xml
